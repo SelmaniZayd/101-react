@@ -1,0 +1,20 @@
+.container {
+  height: 100%;
+  width: 100%;
+  background-color: lightgrey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.counter {
+  background-color: red;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.boutouna {
+  padding: 15px;
+  margin: 0 10px;
+}
